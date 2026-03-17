@@ -28,7 +28,9 @@ NEED TO UPDATE Tools/packages: (primarily based off Lab 8 so far) (not comprehen
 - Statsmodels.tsa seasonal/stattools https://knowledge.dea.ga.gov.au/notebooks/How_to_guides/Detecting_seasonality/
 - To find a linear trend in the flow of the river, we can use functions from scipy.stats. To get extreme points from the data, we can use the percentile function to find extremely high and low flow times in the time period.  
 
-NEED TO UPDATE Planned methodology/approach:
+NEED TO UPDATE 
+CAN INTRODUCE NOTEBOOKS
+Planned methodology/approach:
 We plan to follow the analysis methodology highlighted in Caballero et. al. for comparisons between satellite imagery with numerical model output on blooms. This entails pulling the satellite imagery and pulling out the spectral bands that indicate blooms (NDCI), and compare those findings to the distribution of blooms in Whidbey basin. This methodology will be applied to high and low discharge years to see how river inputs affect the spatial patterns of the blooms. We will also be able to examine residence times and chlorophyll patterns to see the correlation between the two.
 As discussed during lab section, I will be looking at the volumetric flow of the Stillaguamish River in ft^3/s. I will look at how changes in volumetric flow affect the concentration of pollutants in the basin using an increase in algae as our indicator.
 
